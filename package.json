@@ -27,7 +27,6 @@
     "require": "./ava-jsdom-setup"
   },
   "rollupBabelLibBundler": {
-    "moduleName": "SceneDirector",
     "babel": {
       "presets": [
         "es2015-loose-rollup",
