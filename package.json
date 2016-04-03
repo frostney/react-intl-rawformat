@@ -22,6 +22,10 @@
     "intl",
     "i18n"
   ],
+  "files": [
+    "dist",
+    "src"
+  ],
   "ava": {
     "babel": "inherit",
     "require": "./ava-jsdom-setup"

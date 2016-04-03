@@ -1,7 +1,7 @@
 import React from 'react';
-import RawFormatterBase from './RawFormatterBase';
+import RawFormattedBase from './RawFormattedBase';
 
-const RawFormatterTime = props =>
-  <RawFormatterBase formatter="formatMessage" {...props} />;
+const RawFormattedMessage = props =>
+  <RawFormattedBase formatter="formatMessage" {...props} />;
 
-export default RawFormatterTime;
+export default RawFormattedMessage;
