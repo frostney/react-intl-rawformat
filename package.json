@@ -1,6 +1,6 @@
 {
   "name": "react-intl-rawformat",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convenience component for react-intl's `format*` API",
   "main": "dist/react-intl-rawformat.js",
   "jsnext:main": "dist/react-intl-rawformat.es2015.js",
