@@ -12,6 +12,7 @@ class RawFormattedBase extends Component {
 
   render() {
     const props = {
+      ...this.props,
       id: this.props.id,
       values: this.props.values,
       messages: this.props.intl.messages,
